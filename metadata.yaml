@@ -1,0 +1,28 @@
+_repo: Greensea-Island-A-Mystery-of-the-Essex-Coast_66969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bridges, Victor
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '3566'
+    url: http://www.gutenberg.org/2009/agents/3566
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Bridges
+description: ''
+gutenberg_issued: '2021-12-19'
+identifiers:
+  gutenberg: '66969'
+  lccn: '22006163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: 'Greensea Island: A Mystery of the Essex Coast'
+url: http://www.gutenberg.org/ebooks/66969
