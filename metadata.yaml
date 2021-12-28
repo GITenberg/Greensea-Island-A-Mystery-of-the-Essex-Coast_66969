@@ -1,5 +1,8 @@
 _repo: Greensea-Island-A-Mystery-of-the-Essex-Coast_66969
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66969-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bridges, Victor
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3566
     wikipedia: https://en.wikipedia.org/wiki/Victor_Bridges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66969#Greensea-Island-A-Mystery-of-the-Essex-Coast
 gutenberg_issued: '2021-12-19'
 identifiers:
   gutenberg: '66969'
